@@ -10,7 +10,7 @@ The Coffee Shop Sales Dashboard is an Excel-based project designed to present in
 * Provide actionable insights to enhance operational efficiency.
 
 ### Dashboard Preview
-<img src="coffee_sales_dashboard.PNG"/>&nbsp;
+<img src="COFFEE  SALE DASHBOARD.png"/>&nbsp;
 
 ### Key Insights
 1. **Revenue Growth**
@@ -46,5 +46,5 @@ The Coffee Shop Sales Dashboard is an Excel-based project designed to present in
 ### Tools Used
 **Microsoft Excel**
 
-<img src="Microsoft_Office_Excel_Logo_128px.png" width="100" />&nbsp;
+<img src="Microsoft Office excel logo.png" width="100" />&nbsp;
 
